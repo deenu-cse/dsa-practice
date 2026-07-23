@@ -2,8 +2,8 @@
   "username": "deenu-cse",
   "currentStreak": 1,
   "longestStreak": 2,
-  "totalSolved": 7,
-  "lastPushDate": "2026-07-16",
+  "totalSolved": 8,
+  "lastPushDate": "2026-07-23",
   "signupDate": "2026-04-23T18:24:23.122Z",
   "battles": [
     {
@@ -11,7 +11,7 @@
       "type": "7-day-sprint",
       "duration": 7,
       "opponent": "sunildev09",
-      "status": "active",
+      "status": "won",
       "endDate": "2026-04-30T18:56:45.190Z"
     },
     {
@@ -19,7 +19,7 @@
       "type": "7-day-sprint",
       "duration": 7,
       "opponent": "sunildev09",
-      "status": "active",
+      "status": "won",
       "endDate": "2026-04-30T18:30:36.789Z"
     }
   ],
